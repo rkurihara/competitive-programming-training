@@ -9,7 +9,8 @@ fun main(args: Array<String>) {
 }
 
 fun func() {
-    pw.write("やあ")
+    val a = next()
+    competitive.programming.training.println(a)
 }
 
 // 入力取得
